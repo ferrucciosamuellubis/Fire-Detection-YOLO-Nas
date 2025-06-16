@@ -2,3 +2,8 @@ super-gradients
 torch
 numpy
 streamlit
+# requirements.txt (Cara Cepat, Tidak Disarankan)
+streamlit
+opencv-python-headless
+tqdm
+# Anda mungkin perlu menambahkan pandas, seaborn, matplotlib, dll. nanti
